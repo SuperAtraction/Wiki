@@ -4,6 +4,8 @@
 
 <div id="temp"></div>
 <div id="L"></div>
+<script src="https://superatraction.github.io/JQuery/external/jquery/jquery.js"></script>
+<script src="https://superatraction.github.io/JQuery/jquery-ui.js"></script>
 <script type="text/javascript">
 	$("#temp").load("dialog.txt");
 $( "#temp" ).dialog({
