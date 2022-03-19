@@ -1,0 +1,29 @@
+<ul style="width:100px;" id="menu">
+	<li><div>Le site</div>
+	<ul>
+	<li><a href="https://superatraction.github.io/CodeCommunity">CodeCommunity</a></li>
+	<li><a href="https://superatraction.github.io/Wiki/">Wiki</a></li>
+	<li><a href="https://superatraction.github.io/Game/">Pour les Gamers</a></li>
+	<li><a href="https://superatraction.github.io/Energy-Engine/">Pour les électriciens</a></li>
+	<li><a href="https://superatraction.github.io/Futur/">Le Futur</a></li>
+	</ul></li>
+	<li><div>Nos Applis</div><ul>
+	<li><a href="https://superatraction.github.io/CreativityCreator/">CreativityCreator</a></li>
+	<li><a href="https://superatraction.github.io/Updater&Launcher/">UpdaterAndLauncher [Nom de Code]</a></li>
+	</ul>
+	</li>
+	<li><div>Item 3</div>
+		<ul>
+			<li><div>Item 3-1</div></li>
+			<li><div>Item 3-2</div></li>
+			<li><div>Item 3-3</div></li>
+			<li><div>Item 3-4</div></li>
+			<li><div>Item 3-5</div></li>
+		</ul>
+	</li>
+	<li><div>Item 4</div></li>
+	<li><div>Item 5</div></li>
+</ul>
+<script type="text/javascript">
+$( "#menu" ).menu();
+</script>
