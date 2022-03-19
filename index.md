@@ -1,5 +1,7 @@
 # Le Wiki Officiel de SuperAtraction
 
+
+<link href="https://superatraction.github.io/JQuery/jquery-ui.css" rel="stylesheet">
 <button onClick="Menu()">Menu</button>
 
 <div id="temp"></div>
@@ -28,6 +30,4 @@ autoOpen: false,
 function Menu() {
       $( "#temp" ).dialog("open");
 }
-	
-	
 </script>
