@@ -11,3 +11,5 @@ Citation d'hitek.fr : <i>Sans surprise, Alerte Rouge a fait sensation auprès de
 <img src="Alerte Rouge Logo C.png"></img>
 <br>"Nous sommes ouverts, mais nous n'en avons pas parlé. Mais oui, la fin d'Alerte Rouge invite à plus d'histoires", explique la cinéaste, très vite soutenue par la productrice du projet : "J'espère qu'à la fin d'un film, vous êtes tellement tombé amoureux des personnages que vous avez du mal à les laisser partir. Je veux dire, en tant que cinéastes, pas même en tant que spectateurs, je ressens cela. J'adore ces personnages. Je ne me suis jamais lassée d'eux. Je veux voir ce qu'ils font après. Donc voilà. Qui sait?". Si Pixar ne produit pas systématiquement de suites pour ses films, cela dépendra certainement de l'engouement autour d'Alerte Rouge. Nous, en tout cas, on serait totalement partants pour voir plus de pandas roux !</i>
 
+# Regarder Alerte Rouge
+<a href="https://www.disneyplus.com/fr-fr/movies/_/4mFPCXJi7N2m">Regarder Maintenant</a>
