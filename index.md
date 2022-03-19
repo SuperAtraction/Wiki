@@ -1,5 +1,7 @@
 # Le Wiki Officiel de SuperAtraction
 
+<button onClick="Menu()">Menu</button>
+
 <div id="temp"></div>
 <div id="L"></div>
 <script type="text/javascript">
